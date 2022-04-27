@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <platos plato="Ensaladas">
+    <nombre>Pollo Rosa</nombre>
+    <precio>9,75€</precio>
+    <descripcion>Lechuga, Tomate, olivas, pollo, salsa rosa</descripcion>
+    <calorias>200kcal</calorias>
+    <caracteristicas>
+      <item>Pollo, Vegetal, Favoritos</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Ensaladas">
+    <nombre>Pollo Piña</nombre>
+    <precio>9,95€</precio>
+    <descripcion>Lechuga, Tomate, olivas, pollo, piña, salsa rosa</descripcion>
+    <calorias>250kcal</calorias>
+    <caracteristicas>
+      <item>Pollo, Vegetal</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Ensaladas">
+    <nombre>Arroz pollo</nombre>
+    <precio>9,95€</precio>
+    <descripcion>Lechuga, Tomate, olivas, arroz, pollo, salsa rosa</descripcion>
+    <calorias>250kcal</calorias>
+    <caracteristicas>
+      <item>Pollo, Vegetal</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Ensaladas">
+    <nombre>Atún</nombre>
+    <precio>10,75€</precio>
+    <descripcion>Lechuga, Tomate, olivas, cebolla, endivias, atún, huevo duro, mayonesa</descripcion>
+    <calorias>150kcal</calorias>
+    <caracteristicas>
+      <item>Pescado, Vegetal</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Ensaladas">
+    <nombre>Nórdica</nombre>
+    <precio>11,10€</precio>
+    <descripcion>Lechuga, Tomate, olivas, ahumados, salsa rosa</descripcion>
+    <calorias>200kcal, Vegetal</calorias>
+    <caracteristicas>
+      <item>Pescado</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Ensaladas">
+    <nombre>Anchoas</nombre>
+    <precio>11,75€</precio>
+    <descripcion>Lechuga, mzzarella, orégano y anchoas</descripcion>
+    <calorias>200kcal</calorias>
+    <caracteristicas>
+      <item>Pescado</item>
+    </caracteristicas>
+    </platos>
+        <platos plato="Ensaladas">
+    <nombre>Cangrejo</nombre>
+    <precio>10,95€</precio>
+    <descripcion>Lechuga, Tomate, olivas, cangrejo, salsa rosa</descripcion>
+    <calorias>200kcal</calorias>
+    <caracteristicas>
+      <item>Pescado</item>
+    </caracteristicas>
+    </platos>
+        <platos plato="Ensaladas">
+    <nombre>Italiana</nombre>
+    <precio>10,95€</precio>
+    <descripcion>Pasta, maiz, pimineto morrón, olivas, atún, queso, mayonesa</descripcion>
+    <calorias>200kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+
+    <platos plato="Especiales">
+    <nombre>Especial</nombre>
+    <precio>12,95€</precio>
+    <descripcion>Atún, anchoas, pimineto morrón, olivas, mayonesa</descripcion>
+    <calorias>250kcal</calorias>
+    <caracteristicas>
+      <item>Pescado</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Especiales">
+    <nombre>Normanda</nombre>
+    <precio>16,90€</precio>
+    <descripcion>Magret de Pato, camembert, mermelada de arándanos</descripcion>
+    <calorias>350kcal</calorias>
+    <caracteristicas>
+      <item>Carne, Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Especiales">
+    <nombre>Bocatto di Cardinali</nombre>
+    <precio>9,95€</precio>
+    <descripcion>Lomo plancha, queso y pimiento frito</descripcion>
+    <calorias>400kcal</calorias>
+    <caracteristicas>
+      <item>Carne, Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Especiales">
+    <nombre>Serranita</nombre>
+    <precio>10,50€</precio>
+    <descripcion>Lomo plancha, jamón, pimiento frito.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+
+    <platos plato="Hamburgesas">
+    <nombre>Balear</nombre>
+    <precio>11,2o€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, sobrasada, queso edam y cebolla crujiente.</descripcion>
+    <calorias>600kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Hamburgesas">
+    <nombre>Parisina</nombre>
+    <precio>11,2o€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, hamburgesa, queso brie y cebolla crujiente.</descripcion>
+    <calorias>600kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Hamburgesas">
+    <nombre>Ibérica</nombre>
+    <precio>12,45€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, hamburgesa, jamón iberico, huevo frito y cebolla crujiente.</descripcion>
+    <calorias>600kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Hamburgesas">
+    <nombre>Montañesa</nombre>
+    <precio>12,1o€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, hamburgesa, queso de cabra y cebolla crujiente.</descripcion>
+    <calorias>600kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Hamburgesas">
+    <nombre>Rodeo</nombre>
+    <precio>12,0o€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, hamburgesa, bacon, queso, salsa barbacoa y cebolla crujiente.</descripcion>
+    <calorias>600kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+
+    <platos plato="Carne">
+    <nombre>Medallones de lomo</nombre>
+    <precio>14,30€</precio>
+    <descripcion>Medallon de lomo.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Libritos de lomo</nombre>
+    <precio>14,00€</precio>
+    <descripcion>Libritos de lomo.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Lomo a la plancha</nombre>
+    <precio>10,70€</precio>
+    <descripcion>Lomo a la plancha.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Pechuga de pollo a la plancha</nombre>
+    <precio>12,80€</precio>
+    <descripcion>Pechuga de pollo a la plancha.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Escalopa con patatas</nombre>
+    <precio>12,85€</precio>
+    <descripcion>Escalopa con patatas.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Pollo a la milanesa</nombre>
+    <precio>12,85€</precio>
+    <descripcion>Pollo a la milanesa.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Bistec con patatas</nombre>
+    <precio>12,70€</precio>
+    <descripcion>Bistec con patatas.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Solomillo a la plancha</nombre>
+    <precio>26,95€</precio>
+    <descripcion>Solomillo a la plancha.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Solomillo a la pimienta</nombre>
+    <precio>30,20€</precio>
+    <descripcion>Solomillo a la pimienta.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Solomillo al roquefort</nombre>
+    <precio>30,10€</precio>
+    <descripcion>Solomillo al roquefort.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Solomillo all cremat</nombre>
+    <precio>14,30€</precio>
+    <descripcion>Solomillo all cremat.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Entrecot a la plancha</nombre>
+    <precio>22,90€</precio>
+    <descripcion>Entrecot a la plancha.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Entrecot a la pimienta</nombre>
+    <precio>25,95€</precio>
+    <descripcion>Entrecot a la pimienta.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Entrecot al roquefort</nombre>
+    <precio>25,95€</precio>
+    <descripcion>Entrecot al roquefort.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Entrecot all cremat</nombre>
+    <precio>25,95€</precio>
+    <descripcion>Entrecot all cremat.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Costilla de Cordero a la plancha</nombre>
+    <precio>16,35€</precio>
+    <descripcion>Costilla de Cordero a la plancha.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Costilla de Cordero a la milanesa</nombre>
+    <precio>17,50€</precio>
+    <descripcion>Costilla de cordero a la milanesa.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Ossobuco</nombre>
+    <precio>16,15€</precio>
+    <descripcion>Ossobuco.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Magret de Pato al Romero</nombre>
+    <precio>20,65€</precio>
+    <descripcion>Magret de Pato al Romero.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Carne">
+    <nombre>Magret de Pato con mermelada de arándanos</nombre>
+    <precio>20,65€</precio>
+    <descripcion>Magret de Pato con mermelada de arándanos.</descripcion>
+    <calorias>800kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+    </caracteristicas>
+    </platos>
+
+    <platos plato="Sandwiches">
+    <nombre>Bikini</nombre>
+    <precio>3,90€</precio>
+    <descripcion>York y queso.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Torrees de Casta</nombre>
+    <precio>15,95€</precio>
+    <descripcion>D.O. Penedés.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Mallorquín</nombre>
+    <precio>4,85€</precio>
+    <descripcion>sobrasada y queso.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Americano</nombre>
+    <precio>6,70€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, york y huevo frito.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Señorio de Sarriá</nombre>
+    <precio>14,65€</precio>
+    <descripcion>D.O. Navarra.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Pollo</nombre>
+    <precio>6,70€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, pollo y salsa rosa.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Raimat</nombre>
+    <precio>14,70€</precio>
+    <descripcion>Costers del Segre.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Serrano</nombre>
+    <precio>7,60€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, pollo y salsa rosa.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Bacon</nombre>
+    <precio>6,70€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, bacon y huevo frito.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Club</nombre>
+    <precio>7,40€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, bistec y bacon.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Vegetal</nombre>
+    <precio>6,70€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, espárragos y pepinillos.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Atún</nombre>
+    <precio>6,70€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, atún y huevo duro.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Roquefort</nombre>
+    <precio>7,30€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, roquefort y nueces.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Anchoas</nombre>
+    <precio>7,80€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, anchoas y queso.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Salmón</nombre>
+    <precio>8,20€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, salmón y caviar.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Sandwiches">
+    <nombre>Completo</nombre>
+    <precio>7,60€</precio>
+    <descripcion>Lechuga, tomate, mayonesa, york, queso y huevo frito.</descripcion>
+    <calorias>500kcal</calorias>
+    <caracteristicas>
+      <item>Carne</item>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+
+    <platos plato="Pizza">
+    <nombre>Margarita</nombre>
+    <precio>10,70€</precio>
+    <descripcion>Mozzarella, tomate y oregano.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Prosciuto</nombre>
+    <precio>11,2o€</precio>
+    <descripcion>Mozzarella, tomate, oregano y York.</descripcion>
+    <calorias>750kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Ideal</nombre>
+    <precio>12,60€</precio>
+    <descripcion>Mozzarella, tomate, oregano, york y champiñones.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Romana</nombre>
+    <precio>13,20€</precio>
+    <descripcion>Mozzarella, tomate, oregano, bacon, huevo y olivas.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Veneciana</nombre>
+    <precio>13,00€</precio>
+    <descripcion>Mozzarella, tomate, oregano, atún, anchoas y olivas.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Cuatro estaciones</nombre>
+    <precio>13,00€</precio>
+    <descripcion>Mozzarella, tomate, oregano, york, anchoas, atún y champiñones.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Tropical</nombre>
+    <precio>13,00€</precio>
+    <descripcion>Mozzarella, tomate, oregano, york y piña.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Española</nombre>
+    <precio>12,55€</precio>
+    <descripcion>Mozzarella, tomate, oregan, chorizo y huevo.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Formagio</nombre>
+    <precio>13,30€</precio>
+    <descripcion>Mozzarella, tomate, oregano, roquefort y olivas.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>gallega</nombre>
+    <precio>13,40€</precio>
+    <descripcion>Mozzarella, tomate, oregano, boloñesa, cebolla, pimiento.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Gambas</nombre>
+    <precio>13,70€</precio>
+    <descripcion>Mozzarella, tomate, oregano y gambas.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Salmón</nombre>
+    <precio>14,20€</precio>
+    <descripcion>Mozzarella, tomate, oregano, salmón y alcaparras.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Serrana</nombre>
+    <precio>14,30€</precio>
+    <descripcion>Mozzarella, tomate, oregano, serrano y huevo.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Cranc</nombre>
+    <precio>14,30€</precio>
+    <descripcion>Mozzarella, tomate, oregano y cangrejo</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>4 quesos</nombre>
+    <precio>14,45€</precio>
+    <descripcion>Mozzarella, tomate, oregano, manchego, roquefort, camembert y parmesano.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Marinera</nombre>
+    <precio>14,45€</precio>
+    <descripcion>Mozzarella, tomate, oregano, almón, gambas, cangrejo y mejillones.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Vegetal</nombre>
+    <precio>13,45€</precio>
+    <descripcion>Mozzarella, tomate, oregano, pimiento, esparragos, espinacas y cebolla</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Catalana</nombre>
+    <precio>13,45€</precio>
+    <descripcion>Mozzarella, tomate, oregano, bull blanco y negro, huevo, pimineto y olivas negras.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Calzone</nombre>
+    <precio>14,20€</precio>
+    <descripcion>Mozzarella, tomate, oregano, york y huevo.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Alemana</nombre>
+    <precio>13,00€</precio>
+    <descripcion>Mozzarella, tomate, oregano, huevo y salchicha de frankfurt.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Barbacoa</nombre>
+    <precio>14,00€</precio>
+    <descripcion>Mozzarella, tomate, oregano, carne, bacon y salsa barbacoa.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pizza">
+    <nombre>Preciosa</nombre>
+    <precio>14,00€</precio>
+    <descripcion>Mozzarella, tomate, oregano, camembert, york y olivas negras.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+
+    <!-- <platos plato="Pasta">
+    <nombre>Canelones</nombre>
+    <precio>10,95€</precio>
+    <descripcion>Canelones.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Lasagna de carne</nombre>
+    <precio>10,95€</precio>
+    <descripcion>Lasagna de carne.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Lasagna de espinacas</nombre>
+    <precio>10,95€</precio>
+    <descripcion>Lasagna de espinacas.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Lasagna tres quesos</nombre>
+    <precio>12,60€</precio>
+    <descripcion>Lasagna tres quesos.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Macarrones Boloñesa o Gratinados</nombre>
+    <precio>11,00€</precio>
+    <descripcion>Macarrones Boloñesa o Gratinados.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Espaguetti</nombre>
+    <precio>11,00€</precio>
+    <descripcion>Espaguetti.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Tallarines</nombre>
+    <precio>11,00€</precio>
+    <descripcion>Tallarines.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Raviolis</nombre>
+    <precio>11,60€</precio>
+    <descripcion>Raviolis.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Pancerotti</nombre>
+    <precio>11,60€</precio>
+    <descripcion>Pancerotti.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos>
+    <platos plato="Pasta">
+    <nombre>Capeletti</nombre>
+    <precio>11,60€</precio>
+    <descripcion>Capeletti.</descripcion>
+    <calorias>700kcal</calorias>
+    <caracteristicas>
+      <item>Lactosa</item>
+    </caracteristicas>
+    </platos> -->
+</menu>
